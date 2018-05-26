@@ -422,6 +422,8 @@ h5 {
 ==================================================*/
 
 .box-intro {
+    background-image: url('../img/vlad-sargu-620462-unsplash.jpg');
+    background-position: center;
     text-align: center;
     display: table;
     height: 100vh;
